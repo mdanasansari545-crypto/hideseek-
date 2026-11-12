@@ -1,0 +1,16 @@
+{
+  "name": "chhupa-chhupi-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Chhupa Chhupi - Online Hide & Seek game server (3-8 players, live chat)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.8.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
